@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="manifest" href="/manifest.json">
+    <title>German Learning App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!--<span class="service-info">ver 2.0 © Author: Artur Stupenko</span>-->
+    <div class="tabs">
+        <button class="tab-button active" onclick="showTab('words')" data-tab="words">Слова</button>
+        <button class="tab-button" onclick="showTab('grammar')" data-tab="grammar">Грамматика</button>
+        <button class="tab-button" onclick="showTab('memes')">Немецкий по мемам</button>
+        <button class="tab-button" onclick="showTab('test')">Тест</button>
+    </div>
+
+    <div id="content">
+        <div id="words" class="tab-content active-tab">
+            <select id="level-select">
+                <option value="A1">A1</option>
+                <option value="A2">A2</option>
+                <option value="B1">B1</option>
+            </select>
+            <button id="load-words">Загрузить случайные слова</button>
+            <ul id="words-list"></ul>
+        </div>
+
+        <div id="grammar" class="tab-content">
+    <h2>Грамматика</h2>
+    <select id="grammar-topic-select">
+        <option>Выберите тему</option>
+    </select>
+    <div id="grammar-content"></div>
+</div>
+
+        <div id="expressions" class="tab-content">
+            <h2>Выражения</h2>
+            <p>Здесь будет информация по выражениям.</p>
+        </div>
+
+        <div id="memes" class="tab-content">
+    <div class="slider-container">
+        <button class="arrow left" onclick="changeRandomImage()">&#8249;</button>
+        <img id="slider-image" src="images/image1.jpg" alt="Slider Image">
+        <button class="arrow right" onclick="changeRandomImage()">&#8250;</button>
+    </div>
+</div>
+        <div id="test" class="tab-content">
+    <button id="load-test">Загрузить случайный вопрос</button>
+    <div class="content-container"></div>
+</div>
+        
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
