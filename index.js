@@ -12,10 +12,10 @@ const HOST = process.env.HOST || 'localhost';
 
 // Подключение к базе данных
 const db = mysql.createConnection({
-    host: 'ps560160.mysql.tools',
-    user: 'ps560160_application',
-    password: 'y5k*8PVv5_',
-    database: 'ps560160_application'
+    host: 'xxx',
+    user: 'xxx',
+    password: 'xxx',
+    database: 'xxx'
 });
 
 db.connect(err => {
