@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nodal-broker-441015-n7",
+  "private_key_id": "69466cd7de5b16867c99495f7ede2ff6753995e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLxpdKDPvvQb/Y\nHxvLTcm1GPWOngQDD4fEmzDhw88kuOF0AwwDzHlKDbzDRwRgaZlkuvqBlStzu0Gv\nlxGp5S6tKCNSOTbf+a3n+IWQSqSYJOytjIgQvWRhMOV36fssvkYKhFR1+JP2f9Gn\ncFww1ieyhQwBpBOlA3yzUAkyNaL5unhXpP/9ob2C23SBnXBj2NWOMtQTvUWNQiKT\n44tcwuyOGYAmPrqiurJkTnKnTnJ5fE5bKn90mum+FxPFwNU4f9W7MRrS/PGXgcPX\nXc1j0eUAUjFbKBT9eu5e3XLxmEdwvZ4h5on7QYcLZoTnE8p6qNxHArknMKMX5yZ/\noyko8k3FAgMBAAECggEAFkek0/pec1bngFxKYCyloLDVbF33h1Qj3omvSwfrNpMm\nR1Zr8mBhZIji+iDiKB5zoJFXAWMLaLBxKp8kVcSSmWkZj4xk5RE6A/JmvBOFMoNb\nA1CpsdbbSksb08QX69jz9INqbqmal+l6xUliMw6/MWQdn3JOmYyrjjlyf/RgWNhp\n0nbUSFPMs2WSPtdPwHSMmCQzo82/Cu3/tLjakukNQD717jXmAxx7+65+LQUkFSfG\nSoKHUuMEN8phzpik91bElX0MVN0gMx47P3MGqqibLUR/AtAXmp1qP8QBtVcnrzbW\nYJdjxVFCVDssRLwkvxTkSGDmTjpsgVJg/ZExA85PIwKBgQD7VlFLa3Kz8fyjmtC6\nEN49YadVokeduFtJ910jq/yu6dT11MA1khP4JMnzrruXkUuPXUbgpc8xRBKQ6iyd\njfVbATQBS29KOWGVJoD7AZqqmUopQgKSEBrU5VF96K542eSQUVfobG5xnWvp4mD8\nkAcxAX/lvzuv5P0NUYKLlicF/wKBgQDPjmN83hB9cEciDtjo2Z9K/1cJeUCJEIvK\nq4vFdrtWnzRwaQtULDJctaYetG5yJUU4Kq3W9JUgW+oNUUhQUXc+SRr0ssjC7BIO\np8c4iaX4FIzM1Zn3Om/y/Zn7GJEGb1DAzud4dvnS+muy1WGrahBa90x2AwVEzs/v\nauRgloQUOwKBgA7mLgmHhBQwuyZDri3phBMlb9L+vLoXzKmU1Vug/WitCefMxdwn\nHbHvFF2ytQImJdGI2QPGMIMeIu+eQijQ2oObjaap/x3qSuOZlbnLfYyxa5kIhbh8\n5epK8crB+V3GpOr9N3Xav61ShKwntFIkg5ifGyLWdEZYD7wzYca+ju+nAoGAC0sm\nIq86mni3hiTkrJba0gvewoc0ecDKunZnHpF9VBNJmSw+D5BwFRdVOKp8r/1TLOE1\noFKioqYdsCfSFXy5TkxQCSyJPAH4YY/DiVIEE+GaX7Lns8ocOU6PSFhn27/G1xbr\nBWUD5vT1Uz/FFryosyptoKY9bScLrW1Vi+Pkv+0CgYEAz2/GyQBtWkYti717x1p+\nVTu9Ao24HS6EV/PuQbhQOWZFEP8sznEE9g4JmN9bbQDZgyTTmuHknT2ykWS2rUgr\nHwE3qVcNW4btuHEoPeNaYi3/c8p8Pu/hz2RqgYfFlX5M62A3GGocQwY2Fg9dc71X\nrax1Lvl60Pl6RSCvT1HVvzs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "artik-985@nodal-broker-441015-n7.iam.gserviceaccount.com",
+  "client_id": "110007262879056167124",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/artik-985%40nodal-broker-441015-n7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
